@@ -1,8 +1,8 @@
 package com.corenetworks.modelo;
 
 public class Especialidad {
-    public int idEspecialidad;
-    public String nombre;
+    private int idEspecialidad;
+    private String nombre;
 
     @Override
     public String toString() {
